@@ -1,0 +1,277 @@
+[
+  {
+    "city": "Mumbai",
+    "monuments": [
+      {
+        "name": "Gateway of India",
+        "entry_fee": 0,
+        "notes": "Best visited in morning to avoid crowds. Free entry."
+      },
+      {
+        "name": "Elephanta Caves",
+        "entry_fee_indian": 40,
+        "entry_fee_foreign": 600,
+        "ferry_cost_gov": 250,
+        "ferry_cost_private": 500,
+        "visit_duration_hours": 2,
+        "notes": "UNESCO World Heritage Site. Ferry ride approx 1 hour each way."
+      },
+      {
+        "name": "Haji Ali Dargah",
+        "entry_fee": 0,
+        "notes": "Famous mosque and tomb on an islet off Worli coast. Best visited during low tide."
+      },
+      {
+        "name": "Chhatrapati Shivaji Maharaj Terminus (CST)",
+        "entry_fee": 0,
+        "notes": "Historic railway station and UNESCO World Heritage Site. Stunning Gothic architecture."
+      },
+      {
+        "name": "Siddhivinayak Temple",
+        "entry_fee": 0,
+        "notes": "Famous Hindu temple dedicated to Lord Ganesha. Morning visit recommended."
+      },
+      {
+        "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (Prince of Wales Museum)",
+        "entry_fee_indian": 150,
+        "entry_fee_foreign": 600,
+        "timings": "10:15 AM - 5:00 PM",
+        "notes": "Art and history museum with rich collection of artifacts."
+      },
+      {
+        "name": "Bandra Fort",
+        "entry_fee": 0,
+        "notes": "Historic fort offering views of the sea and city skyline."
+      }
+    ]
+  },
+  {
+    "city": "Delhi",
+    "monuments": [
+      {
+        "name": "Red Fort",
+        "entry_fee_indian": 35,
+        "entry_fee_foreign": 500,
+        "timings": "9:00 AM - 4:30 PM",
+        "notes": "UNESCO World Heritage Site. Best visited in morning."
+      },
+      {
+        "name": "Qutub Minar",
+        "entry_fee_indian": 40,
+        "entry_fee_foreign": 600,
+        "timings": "7:00 AM - 5:00 PM",
+        "notes": "Tallest brick minaret in India."
+      },
+      {
+        "name": "India Gate",
+        "entry_fee": 0,
+        "notes": "War memorial. Best visited in evening for lights."
+      },
+      {
+        "name": "Humayun's Tomb",
+        "entry_fee_indian": 40,
+        "entry_fee_foreign": 600,
+        "timings": "6:00 AM - 6:00 PM",
+        "notes": "UNESCO World Heritage Site. Mughal architecture."
+      },
+      {
+        "name": "Lotus Temple",
+        "entry_fee": 0,
+        "timings": "9:00 AM - 5:00 PM",
+        "notes": "Bahá'í House of Worship. Free entry."
+      }
+    ]
+  },
+  {
+    "city": "Agra",
+    "monuments": [
+      {
+        "name": "Taj Mahal",
+        "entry_fee_indian": 50,
+        "entry_fee_foreign": 100,
+        "timings": "6:00 AM - 6:30 PM",
+        "notes": "Sunrise visit recommended for best photography."
+      },
+      {
+        "name": "Agra Fort",
+        "entry_fee_indian": 40,
+        "entry_fee_foreign": 550,
+        "timings": "6:00 AM - 6:00 PM",
+        "notes": "UNESCO World Heritage Site."
+      },
+      {
+        "name": "Fatehpur Sikri",
+        "entry_fee_indian": 50,
+        "entry_fee_foreign": 610,
+        "timings": "6:00 AM - 6:00 PM",
+        "notes": "Historic city and UNESCO site near Agra."
+      }
+    ]
+  },
+  {
+    "city": "Jaipur",
+    "monuments": [
+      {
+        "name": "Amber Fort",
+        "entry_fee_indian": 100,
+        "entry_fee_foreign": 500,
+        "timings": "8:00 AM - 5:30 PM",
+        "notes": "Elephant ride optional. Best morning visit."
+      },
+      {
+        "name": "Hawa Mahal",
+        "entry_fee_indian": 50,
+        "entry_fee_foreign": 200,
+        "timings": "9:00 AM - 4:30 PM",
+        "notes": "Iconic palace of winds."
+      },
+      {
+        "name": "City Palace",
+        "entry_fee_indian": 150,
+        "entry_fee_foreign": 400,
+        "timings": "9:30 AM - 5:00 PM",
+        "notes": "Royal residence with museums and courtyards."
+      },
+      {
+        "name": "Jal Mahal",
+        "entry_fee": 0,
+        "notes": "Palace in the middle of Man Sagar Lake, viewable from shore."
+      }
+    ]
+  },
+  {
+    "city": "Kolkata",
+    "monuments": [
+      {
+        "name": "Victoria Memorial",
+        "entry_fee_indian": 30,
+        "entry_fee_foreign": 200,
+        "timings": "10:00 AM - 5:00 PM",
+        "notes": "Marble monument and museum."
+      },
+      {
+        "name": "Indian Museum",
+        "entry_fee_indian": 15,
+        "entry_fee_foreign": 200,
+        "timings": "10:00 AM - 5:00 PM",
+        "notes": "Largest museum in India."
+      },
+      {
+        "name": "Howrah Bridge",
+        "entry_fee": 0,
+        "notes": "Iconic cantilever bridge."
+      }
+    ]
+  },
+  {
+    "city": "Chennai",
+    "monuments": [
+      {
+        "name": "Fort St. George",
+        "entry_fee_indian": 20,
+        "entry_fee_foreign": 200,
+        "timings": "9:00 AM - 5:00 PM",
+        "notes": "Historic fort and museum."
+      },
+      {
+        "name": "Kapaleeshwarar Temple",
+        "entry_fee": 0,
+        "notes": "Historic Hindu temple, free entry."
+      },
+      {
+        "name": "Santhome Cathedral Basilica",
+        "entry_fee": 0,
+        "notes": "Historic church built over tomb of St. Thomas."
+      }
+    ]
+  },
+  {
+    "city": "Bangalore",
+    "monuments": [
+      {
+        "name": "Bangalore Palace",
+        "entry_fee_indian": 230,
+        "entry_fee_foreign": 460,
+        "timings": "10:00 AM - 5:30 PM",
+        "notes": "Palace with Tudor-style architecture."
+      },
+      {
+        "name": "Tipu Sultan's Summer Palace",
+        "entry_fee_indian": 15,
+        "entry_fee_foreign": 100,
+        "timings": "10:00 AM - 5:00 PM",
+        "notes": "Historic palace of Tipu Sultan."
+      }
+    ]
+  },
+  {
+    "city": "Hyderabad",
+    "monuments": [
+      {
+        "name": "Charminar",
+        "entry_fee_indian": 20,
+        "entry_fee_foreign": 300,
+        "timings": "9:30 AM - 5:30 PM",
+        "notes": "Iconic mosque and landmark."
+      },
+      {
+        "name": "Golconda Fort",
+        "entry_fee_indian": 25,
+        "entry_fee_foreign": 300,
+        "timings": "9:00 AM - 5:30 PM",
+        "notes": "Historic fort with sound & light show in evenings."
+      },
+      {
+        "name": "Qutb Shahi Tombs",
+        "entry_fee_indian": 10,
+        "entry_fee_foreign": 100,
+        "timings": "9:00 AM - 5:00 PM"
+      }
+    ]
+  },
+  {
+    "city": "Udaipur",
+    "monuments": [
+      {
+        "name": "City Palace",
+        "entry_fee_indian": 100,
+        "entry_fee_foreign": 300,
+        "timings": "9:30 AM - 5:30 PM",
+        "notes": "Royal palace with museums and courtyards."
+      },
+      {
+        "name": "Jag Mandir",
+        "entry_fee_indian": 50,
+        "entry_fee_foreign": 150,
+        "notes": "Island palace on Lake Pichola, boat ride optional."
+      },
+      {
+        "name": "Jagdish Temple",
+        "entry_fee": 0,
+        "notes": "Famous Hindu temple near City Palace."
+      }
+    ]
+  },
+  {
+    "city": "Varanasi",
+    "monuments": [
+      {
+        "name": "Kashi Vishwanath Temple",
+        "entry_fee": 0,
+        "notes": "Spiritual Hindu temple. Free entry."
+      },
+      {
+        "name": "Dashashwamedh Ghat",
+        "entry_fee": 0,
+        "notes": "Historic ghat famous for Ganga Aarti in evenings."
+      },
+      {
+        "name": "Sarnath",
+        "entry_fee_indian": 10,
+        "entry_fee_foreign": 250,
+        "timings": "6:00 AM - 5:30 PM",
+        "notes": "Buddhist pilgrimage site near Varanasi."
+      }
+    ]
+  }
+]

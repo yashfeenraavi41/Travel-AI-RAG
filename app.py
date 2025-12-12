@@ -9,6 +9,7 @@ load_dotenv()
 
 app = FastAPI()
 
+
 class ItineraryRequest(BaseModel):
     city: str
     trip_duration: str = "1-day"
@@ -24,8 +25,6 @@ def root():
 
 @app.post("/generate_itinerary")
 def generate_itinerary(req: ItineraryRequest):
-
-    # DIRECT RAG CALL → retrieves monuments + builds prompt + calls Groq
     itinerary_text = generate_rag_itinerary(
         city=req.city,
         location=req.location,
@@ -33,5 +32,12 @@ def generate_itinerary(req: ItineraryRequest):
         budget=req.budget,
         interests=req.interests
     )
-
     return {"itinerary": itinerary_text}
+
+
+if __name__ == "__main__":
+    # Use the PORT environment variable set by Render
+    port = int(os.environ.get("PORT", 8000))
+    print(f"Starting RAG FastAPI server on port {port}...")
+    import uvicorn
+    uvicorn.run("app:app", host="0.0.0.0", port=port)

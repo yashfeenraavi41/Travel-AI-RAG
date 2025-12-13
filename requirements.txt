@@ -5,7 +5,7 @@ faiss-cpu
 numpy
 requests
 python-dotenv
-
+gradio
 
 tensorflow==2.18.0
 protobuf==3.20.3
